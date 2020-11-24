@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG854
   title: རིག་འཛིན་དགྱེས་པའི་མཆོད་སྤྲིན
-  volume: ''
+  volume:
+    1949734baa9842b986d2a7cbe80c2c7f:
+      image_group_id: I1KG889
+      title: Volume 1 of rig 'dzin dgyes pa'i mchod sprin
+      volume_number: 1
+      total_pages: 366
   author: ''
+ebook_metadata:
+  title: རིག་འཛིན་དགྱེས་པའི་མཆོད་སྤྲིན
+  author: ''
+  sku: P000544
+  cover: cover.jpg
+  layers:
+  - pagination
